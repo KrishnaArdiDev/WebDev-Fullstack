@@ -2,7 +2,7 @@
 
 This repository documents my journey of learning backend development more deeply using Laravel. I created it to prepare for my upcoming semester, improve my backend development skills, and support my role as a Backend Club mentor.
 
-Figma design: https://www.figma.com/design/RIkwN6PsVM20OPHDzAFQ4t/Design-Figma-Web-Pinjam-Ruang-Gedung?node-id=0-1&t=9Sr6dSh94s0TrlIy-1
+Figma design: https://www.figma.com/design/GTJpvH2ViwDjBMxsyPn5qM/Web-Design-Peminjaman-ruangan-gedung?node-id=0-1&t=ncFN7MnCXAC05wGL-1
 
 Words bangun rancang: https://docs.google.com/document/d/1b4LQ8aj9m5qNnGqQb0zbVhD1QX7JlkKz556OgPxAlNk/edit?usp=sharing
 
